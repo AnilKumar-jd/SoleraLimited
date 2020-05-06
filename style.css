@@ -1,0 +1,149 @@
+body{
+    background-color: rgba(30, 31, 29, 0.925);
+}
+
+#main{
+    background-image: linear-gradient(to top, rgb(228, 100, 41), rgb(212, 0, 255));   
+     height: 420px;
+    width: 300px;
+    margin-left: 30px;
+    
+    margin-top: 100px;
+    border-radius: 15px 15px 15px 15px;
+color: white;
+    }
+
+#container{
+    position: absolute;
+
+    top: 0;
+    
+    float: right;
+    margin-top: 100px;
+margin-left: 220px;   
+
+
+    
+}
+
+
+#div1{
+    left: 150px;
+    
+}
+
+
+#div2{
+    left: 300px;
+    
+}
+
+
+#div3{
+    left: 450px;
+    
+    }
+
+
+#div4{
+       left: 600px;
+ 
+}
+
+#div5{
+ 
+    left: 750px;
+}
+
+
+#div6{
+        left: 900px;
+    
+}
+
+
+#div7{
+    left: 1050px;
+
+}
+
+#div8{
+
+    left: 1200px;
+
+}
+
+
+#div9{
+
+    left: 1350px;
+    
+
+}
+
+
+#div10{
+     
+    left: 1500px;
+
+}
+
+
+#div1,#div1,#div2,#div3,#div4,#div5,#div6,#div7,#div8,#div9,#div10{
+    background-color: rgb(30, 31, 29);
+    border-radius: 15px 15px 15px 15px;
+    position: absolute;
+    height: 420px;
+    width: 300px;
+
+    color: white;
+    box-shadow: 0 15px 20px 0 rgba(0, 0, 0, 0.479), 0 17px 35px 0 rgba(0, 0, 0, 0.479);
+
+    
+}
+div:hover{
+    z-index: 1;
+    
+}
+
+b:hover{
+color: rgb(255, 0, 242);    
+}
+
+div  b{
+text-align: justify;
+}
+
+h5{
+    position: absolute; 
+    
+    top: 55px;
+     left: 23px;
+}
+
+span{
+
+    position: absolute;
+     left: 33px;
+     top: 20px;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+#logo1,#logo2,#logo3,#logo4,#logo5,#logo6,#logo7,#logo8,#logo9,#logo10{
+    position: absolute; 
+    left: 20px;
+    top: 295px; 
+    border:solid 2px red;
+     border-radius: 50%;
+      position:  absolute; 
+    background-color: blueviolet;
+     font-size: 35px; 
+}
+
+i{
+    padding: 10px;
+}
+
+#author1,#author2,#author3,#author4,#author5,#author6,#author7,#author8,#author9,#author10{
+    position: absolute; top: 300px; left: 100px;
+}
